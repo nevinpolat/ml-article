@@ -1,7 +1,7 @@
 # From Practice to Theory: An In-Depth Guide to Gradient Boosting with XGBoost, LightGBM, and CatBoost
 ![alt text](images/image-4.png)
 ## Abstract
-Predicting a movie’s success depends on many factors. In Dataflix, we built a gradient boosting classifier to determine whether a film would be a Flop, Medium, Hit, or Blockbuster based on features like budget, genre, and cast popularity.
+Predicting a movie’s success depends on many factors. In [Dataflix](https://github.com/nevinpolat/dataflix), we built a gradient boosting classifier to determine whether a film would be a Flop, Medium, Hit, or Blockbuster based on features like budget, genre, and cast popularity.
 
 This article explains:
 
