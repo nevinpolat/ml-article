@@ -374,7 +374,6 @@ A quick cheat-sheet for typical parameters:
   - The leaf-wise splitting approach then hones in on these observations to refine the model quickly.
 
 
-![alt text](images/image-22.png)
 
 ## 5. Final Observations from Dataflix
 
